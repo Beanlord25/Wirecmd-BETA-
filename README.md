@@ -1,4 +1,4 @@
-# <img width="94" height="28" alt="image" src="https://beanlord25.github.io/New%20Project.svg" />
+# <img width="1050" height="450" alt="image" src="https://beanlord25.github.io/New%20Project.svg" />
 
 This is the first public release of "Wirecmd", a little project of mine that can be used to run simple commands using the expression 2 system. This is still in development and might break if used incorrectly. The script also requires propcore to be enabled.
 
